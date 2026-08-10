@@ -1,0 +1,11 @@
+Trace File | Branch Prediction Accuracy
+---------------------------------------
+403.gcc-48B.champsimtrace.xz | 99.28%
+445.gobmk-30B.champsimtrace.xz | 84.43%
+456.hmmer-191B.champsimtrace.xz | 99.38%
+458.sjeng-283B.champsimtrace.xz | 91.22%
+410.bwaves-2097B.champsimtrace.xz | 95.79%
+470.lbm-1274B.champsimtrace.xz | 99.48%
+429.mcf-217B.champsimtrace.xz | 97.22%
+483.xalancbmk-736B.champsimtrace.xz | 96.87%
+600.perlbench_s-210B.champsimtrace.xz | 96.12%

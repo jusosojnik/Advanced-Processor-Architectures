@@ -1,0 +1,8 @@
+.DS_Store
+ChampSim/vcpkg/
+ChampSim/bin/
+ChampSim/vcpkg_installed/
+ChampSim/traces/
+ChampSim/build.log
+ChampSim/branch_test_logs/
+ChampSim/branch_test_logs_2/
