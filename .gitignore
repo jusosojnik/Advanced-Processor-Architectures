@@ -1,4 +1,15 @@
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.idea/
+.vscode/
+
+# ChampSim generated / local files
 ChampSim/vcpkg/
 ChampSim/bin/
 ChampSim/vcpkg_installed/
